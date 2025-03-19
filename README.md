@@ -11,7 +11,7 @@
 Header.js, Home.js, Section.js, TableOfContents.js are the react components javascript files, App.css have all the styling code for the react web application
 
 
-**Usage**
+**Usage:**
 
 **Home Page:** Click on the "Data001" container to navigate to the Table of Contents.
 
